@@ -1,0 +1,17 @@
+  h1
+        {
+            color: orange;
+        
+        }
+        h2{
+            color: #ffffff;
+        }
+        p {
+            color: white;
+            background-color: black ;
+        }
+        button{
+            color: white;
+            background-color: blue;
+        
+        }
